@@ -1,4 +1,4 @@
-# GeoNet Spider
+﻿# GeoNet Spider
 
 This project is a Web Application and Notebook submission for the **Takiwaehere Geospatial Hackathon** (17–18 April, 2021), where our team won **2nd place at the University of Canterbury**.
 
@@ -173,5 +173,3 @@ To view the application, you can serve the files using a simple local web server
    npx http-server
    ```
 5. Open your web browser and navigate to the address provided by `http-server` (usually `http://127.0.0.1:8080`).  
-T e s t :   i g n o r e   d e p l o y   o n   R E A D M E   u p d a t e  
- 
