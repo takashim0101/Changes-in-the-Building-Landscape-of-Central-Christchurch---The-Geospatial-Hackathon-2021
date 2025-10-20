@@ -12,14 +12,7 @@ This project is a Web Application and Notebook submission for the **Takiwaehere 
 For more details on the project, you can view our presentation slides:  
 [**Download Presentation (PDF)**](./presentation.pdf)
 
----
 
-## Demo Video
-
-A video demonstrating the application is also available:  
-[**Watch Demo Video (MP4)**](./assets/img/video/Recording%202025-10-21%20002003.mp4)
-
----
 
 ## Project Summary
 
