@@ -1,6 +1,6 @@
-﻿# GeoNet Spider
+# GeoNet Spider
 
-This project is a Web Application and Notebook submission for the **Takiwaehere Geospatial Hackathon** (17â€“18 April, 2021), where our team won **2nd place at the University of Canterbury**.
+This project is a Web Application and Notebook submission for the **Takiwaehere Geospatial Hackathon** (17–18 April, 2021), where our team won **2nd place at the University of Canterbury**.
 
 **Hackathon Information:**  
 [Takiwaehere - The Geospatial Hackathon](https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealand-r-d/innovative-partnerships/takiwaehere-the-geospatial-hackathon)
