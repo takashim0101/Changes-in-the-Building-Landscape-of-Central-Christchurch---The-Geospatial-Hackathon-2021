@@ -12,7 +12,7 @@ This project is a Web Application and Notebook submission for the **Takiwaehere 
 For more details on the project, you can view our presentation slides:  
 [**Download Presentation (PDF)**](./presentation.pdf)
 
-
+---
 
 ## Project Summary
 
@@ -172,4 +172,4 @@ To view the application, you can serve the files using a simple local web server
    ```bash
    npx http-server
    ```
-5. Open your web browser and navigate to the address provided by `http-server` (usually [http://127.0.0.1:8080](http://127.0.0.1:8080)).
+5. Open your web browser and navigate to the address provided by `http-server` (usually `http://127.0.0.1:8080`).  
